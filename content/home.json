@@ -11,7 +11,7 @@
           "img": "/img/uploads/725c0e25-7a3e-4586-b3f0-a79bb0e5dec5.png",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
+          "start": "2022-10-10T20:14:51.159Z",
           "end": "2020-12-31T03:00:00.000Z",
           "mobile_img": "/img/uploads/headphone.webp"
         },
@@ -31,8 +31,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
+      "collection_id": "6234e73a2e405e04ffe885bd:categories:Blusas:/blusas",
+      "sort": "news",
       "title": "",
       "headless": false,
       "limit": 12,
