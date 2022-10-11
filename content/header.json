@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Retire grátis na loja se você for de Petrópolis!!",
-    "link": ""
+    "link": "",
+    "background": "#201b1b",
+    "color": "#fdf6f6"
   },
   "contacts_stripe": {
     "pages": [],
