@@ -25,13 +25,9 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "6234e73a2e405e04ffe885bd:categories:Blusas:/blusas",
+      "collection_id": "62196bc77963422eee1dee90:categories:Vestidos:/vestidos-",
       "sort": "news",
       "title": "",
       "headless": false,
@@ -39,9 +35,24 @@
       "page": 2
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6234e81e2e405e04ffe88934:categories:Coleção outono inverno:/colecao-outono-inverno-",
+      "title": "Coleção de Inverno 🍁"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62364f5f2e405e04ffeb1223:categories:Jaquetas:/jaquetas-",
+      "title": "Jaquetas"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
