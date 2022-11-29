@@ -47,8 +47,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62364f5f2e405e04ffeb1223:categories:Jaquetas:/jaquetas-",
-      "title": "Jaquetas"
+      "collection_id": "6234e8032e405e04ffe888bf:categories:Shorts:/shots",
+      "title": "Jaquetas",
+      "sort": "news"
     },
     {
       "type": "info-bar",
