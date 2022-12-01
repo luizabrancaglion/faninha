@@ -40,7 +40,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62196bc77963422eee1dee90:categories:Vestidos:/vestidos-",
-      "title": "Vestidos"
+      "title": "Vestidos",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
