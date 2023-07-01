@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bff82eb8d07d43cea45167206291ed0e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7d7805ca181005fa5d0ba046e0f05a91.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b33b77651ee6f6953bbd631847879303.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1bd2de424ee98bd20056b7782fb641ae.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f6fda4edd375c7fc73c692162ca03919.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Faninha modas",
+  "short_name": "faninha",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "faninha",
+  "background_color": "#ffffff",
+  "theme_color": "#434343"
+}
